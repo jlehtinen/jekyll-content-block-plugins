@@ -119,7 +119,7 @@ Here are some more warm parkas to get you through the winter.
 which gets rendered like this:
 
 ~~~
-<div id="parkas" style="background-image: url(/assets/images/background-image.jpg)">
+<div id="parkas" style="background-image: url(/assets/images/pattern.jpg)">
   <div class="row">
     <div class="col-xs-12 col-md-6" style="background-image: url(/assets/images/snowy-mountains.jpg)">
       <h2>Parkas</h2>
